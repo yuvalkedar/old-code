@@ -1,5 +1,5 @@
 #include "pitches.h"
-#include "SongsInfo.h"
+#include "songs.h"
 #include <MyRemote.h>
 
 #define SPEAKER		(8)
