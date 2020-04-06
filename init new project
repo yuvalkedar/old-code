@@ -1,0 +1,3 @@
+cd/project_folder
+git init
+git remote add <source-name> <repository-path>
