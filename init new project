@@ -1,3 +1,8 @@
 cd/project_folder
 git init
-git remote add <source-name> <repository-path>
+git add .
+git commit -m "Adding a new file"
+git remote add <origin <repository-path>
+git pull --rebase origin master
+git push -u origin master
+
