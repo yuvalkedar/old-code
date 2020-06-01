@@ -1,3 +1,5 @@
+//All rights reserved to Zvika Markfeld - Studio ForReal
+
 #include <avr/pgmspace.h>	//stores letter arrays in flash memory, more info here: http://arduino.cc/en/Reference/PROGMEM
 
 String message = "םלוע םולש";	//PUT YOUR MESSAGE HERE!!- must be in all caps, spaces are fine, no punctuation
